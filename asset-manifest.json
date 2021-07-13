@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aristo/static/css/main.cfa74a95.chunk.css",
-    "main.js": "/aristo/static/js/main.67fd0904.chunk.js",
-    "main.js.map": "/aristo/static/js/main.67fd0904.chunk.js.map",
+    "main.js": "/aristo/static/js/main.3b54b33a.chunk.js",
+    "main.js.map": "/aristo/static/js/main.3b54b33a.chunk.js.map",
     "runtime-main.js": "/aristo/static/js/runtime-main.e286979b.js",
     "runtime-main.js.map": "/aristo/static/js/runtime-main.e286979b.js.map",
     "static/js/2.49f44d5a.chunk.js": "/aristo/static/js/2.49f44d5a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e286979b.js",
     "static/js/2.49f44d5a.chunk.js",
     "static/css/main.cfa74a95.chunk.css",
-    "static/js/main.67fd0904.chunk.js"
+    "static/js/main.3b54b33a.chunk.js"
   ]
 }
