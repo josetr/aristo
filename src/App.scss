@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+header {
+  @media print {
+    display: none !important;
+  }
+}
+
+main {
+  text-align: center;
+  padding: 10px;
+}
+
+.noprint {
+  @media print {
+    display: none;
+  }
+}
+
+@page {
+  margin: 0;
+}
+
+.BarcodeList {
+  list-style-type: none;
+  max-width: 900px;
+  margin: auto;
+  padding: 0;
+}
+
+.BarcodeList li {
+  display: inline-block;
+  border: 1px dashed rgb(212, 212, 212);
+  padding: 0;
+  margin: 0;
+}
